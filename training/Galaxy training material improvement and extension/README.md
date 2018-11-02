@@ -29,16 +29,28 @@ The project is aimed at making the contribution process as easy as possible, so 
 ## Expected outcomes
 ---
 
-We have many ideas for this work and participants can work on a wide range of topics depending on their interests
+We have many ideas for this work and participants can work on a wide range of topics depending on their interests:
 
+- **Content**
+ - New topics, new tutorials
+ - Review open pull requests
+ - Check and improve existing tutorials
+ - Training Handbook for instructors
 
-Following the success of previous hackathons, we propose the organisation of a workshop to further pursue some of the objectives of the ELIXIR Galaxy Use case for training, e.g.:
-- Improve and extend the collection of Galaxy training materials
-- Add support for BioSchemas
-- Plan internationalisation and localisation support in order to make the training material available to users in their own language
-- Complete the integration with the new TeSS workflow annotator
-- Automatic workflow testing
+- **Global Infrastructure**
+ - FAIRness evaluation of the training
+ - Plan internationalisation and localisation support in order to make the training material available to users in their own language
+ - BioSchemas support
+ - Complete integration iwth the TeSS workflow annotator
 
+- **Technical support**
+ - Workflow testing
+ - Docker images
+ - [Interactiver tours]()
+
+- **Community**
+ - More visibility for training events
+ - Support for Instructors
 
 ## Expected audience
 ---
