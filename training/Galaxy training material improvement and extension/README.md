@@ -88,7 +88,9 @@ Why should you join?
 - Become part of an awesome community!
   - [Chat on Gitter](https://gitter.im/Galaxy-Training-Network/Lobby)
   - [Regular Online CoFests](https://www.galaxyproject.org/events/2018-11-gtn/)
+
     ![](images/cofests-small.png)
+
 - Learn about training, Galaxy, and bioinformatics
 - Share your insights and knowledge with the community and help this project thrive
 - Earn a place in our [Hall of Fame](https://galaxyproject.github.io/training-material/hall-of-fame)
