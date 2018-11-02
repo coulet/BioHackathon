@@ -32,25 +32,25 @@ The project is aimed at making the contribution process as easy as possible, so 
 We have many ideas for this work and participants can work on a wide range of topics depending on their interests:
 
 - **Content**
- - New topics, new tutorials
- - Review open pull requests
- - Check and improve existing tutorials
- - Training Handbook for instructors
+  - New topics, new tutorials
+  - Review open pull requests
+  - Check and improve existing tutorials
+  - Training Handbook for instructors
 
-- **Global Infrastructure**
- - FAIRness evaluation of the training
- - Plan internationalisation and localisation support in order to make the training material available to users in their own language
- - BioSchemas support
- - Complete integration iwth the TeSS workflow annotator
+**Global Infrastructure**
+  - FAIRness evaluation of the training
+  - Plan internationalisation and localisation support in order to make the training material available to users in their own language
+  - BioSchemas support
+  - Complete integration iwth the TeSS workflow annotator
 
 - **Technical support**
- - Workflow testing
- - Docker images
- - [Interactiver tours]()
+  - Workflow testing
+  - Docker images
+  - [Interactiver tours]()
 
 - **Community**
- - More visibility for training events
- - Support for Instructors
+  - More visibility for training events
+  - Support for Instructors
 
 ## Expected audience
 ---
