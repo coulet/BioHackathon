@@ -29,10 +29,10 @@ The project is aimed at making the contribution process as easy as possible, so 
 ## Expected outcomes
 ---
 
-We have many ideas for this work and participants can work on a wide range of topics depending on their interests:
+We have many ideas for this week, and participants can work on a wide range of topics depending on their interests:
 
 - **Content**
-  - New topics, new tutorials
+  - Add new topics, new tutorials
   - Review open pull requests
   - Check and improve existing tutorials
   - Training Handbook for instructors
@@ -51,13 +51,15 @@ We have many ideas for this work and participants can work on a wide range of to
 - **Community**
   - More visibility for training events
   - Support for Instructors
+  - Add your training philosophy and tips to help other instructors
 
 ## Expected audience
 ---
 
-Instructors and anyone eager to develop Galaxy-related training material. No specific knowledge or skills are required, just motivation!
+Instructors and anyone eager to develop Galaxy-related training material.
 
-**Expected hacking days**: 4 days, 3 days, 2 days
+No specific knowledge or skills are required, just motivation! There are extensive [training materials](https://galaxyproject.github.io/training-material/topics/contributing://galaxyproject.github.io/training-material/topics/contributing/) that will help you to learn everything you need to know about contributing to this project, and of course many community members are present here this week and happy to help answer any questions.
+
 
 ## Related works and references
 ---
@@ -84,10 +86,12 @@ We welcome everybody to join our hackathon this week, no experience needed with 
 Why should you join?
 
 - Become part of an awesome community!
-  - [Chat on Gitter](https://gitter.im/Galaxy-Training-Network/Lobby))
-  - [Regular Online Hackathons]()
-- Learn about training, Galaxy,
+  - [Chat on Gitter](https://gitter.im/Galaxy-Training-Network/Lobby)
+  - [Regular Online CoFests](https://www.galaxyproject.org/events/2018-11-gtn/)
+    ![](images/cofests-small.png)
+- Learn about training, Galaxy, and bioinformatics
+- Share your insights and knowledge with the community and help this project thrive
 - Earn a place in our [Hall of Fame](https://galaxyproject.github.io/training-material/hall-of-fame)
   - With any contribution, big or small!; this project would not be possible without all of you who contribute!
-  ![](images/hall-of-fame.png)
+    ![](images/hall-of-fame.png)
 
