@@ -37,7 +37,7 @@ We have many ideas for this work and participants can work on a wide range of to
   - Check and improve existing tutorials
   - Training Handbook for instructors
 
-**Global Infrastructure**
+- **Global Infrastructure**
   - FAIRness evaluation of the training
   - Plan internationalisation and localisation support in order to make the training material available to users in their own language
   - BioSchemas support
@@ -46,7 +46,7 @@ We have many ideas for this work and participants can work on a wide range of to
 - **Technical support**
   - Workflow testing
   - Docker images
-  - [Interactiver tours]()
+  - [Interactive tours](https://crs4.github.io/Galaxy4Developers/lectures/09.galaxy_interactive_tours/)
 
 - **Community**
   - More visibility for training events
@@ -83,7 +83,11 @@ We welcome everybody to join our hackathon this week, no experience needed with 
 
 Why should you join?
 
-- Earn a place in our [Hall of Fame](https://galaxyproject.github.io/training-material/hall-of-fame) with any contribution, big or small!
-  ![](images/hall-of-fame.png)
-- Work with an awesome community!
+- Become part of an awesome community!
+  - [Chat on Gitter](https://gitter.im/Galaxy-Training-Network/Lobby))
+  - [Regular Online Hackathons]()
 - Learn about training, Galaxy,
+- Earn a place in our [Hall of Fame](https://galaxyproject.github.io/training-material/hall-of-fame)
+  - With any contribution, big or small!; this project would not be possible without all of you who contribute!
+  ![](images/hall-of-fame.png)
+
