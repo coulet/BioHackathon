@@ -25,8 +25,17 @@ Galaxy community, Training platform
 
 The project is aimed at making the contribution process as easy as possible, so that no specific knowledge or skills are required from contributors, and there are extensive [training materials about how to contribute to this project](https://galaxyproject.github.io/training-material/topics/contributing://galaxyproject.github.io/training-material/topics/contributing/)
 
+## Motivation
+---
 
-## Expected outcomes
+Bioinformatics has become too central to biology to be left to specialist bioinformaticians. We believe that the domain experts (biologists, researchers, clinicians) should be empowered to analyze their own data.
+
+There is a clear demand for online, accessible bioinformatics training, with a recent survey by [Brazas et al](http://biorxiv.org/content/early/2017/02/27/098996) that while most people currently learn bioinformatics by themselves or from colleagues, they would prefer to be learning through workshops or online e-learning courses.
+
+![](images/demand.png)
+
+
+## Goals and Expected outcomes
 ---
 
 We have many ideas for this week, and participants can work on a wide range of topics depending on their interests:
@@ -83,7 +92,7 @@ No specific knowledge or skills are required, just motivation! There are extensi
 
 We welcome everybody to join our hackathon this week, no experience needed with Galaxy, git or training, just motivation!
 
-Why should you join?
+**Why should you join?**
 
 - Become part of an awesome community!
   - [Chat on Gitter](https://gitter.im/Galaxy-Training-Network/Lobby)
@@ -93,7 +102,6 @@ Why should you join?
 
 - Learn about training, Galaxy, and bioinformatics
 - Share your insights and knowledge with the community and help this project thrive
-- Earn a place in our [Hall of Fame](https://galaxyproject.github.io/training-material/hall-of-fame)
-  - With any contribution, big or small!; this project would not be possible without all of you who contribute!
+- Earn a place in our [Hall of Fame](https://galaxyproject.github.io/training-material/hall-of-fame); this project would not be possible without all of you who contribute!
     ![](images/hall-of-fame.png)
 
