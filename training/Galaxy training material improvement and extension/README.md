@@ -23,10 +23,14 @@ Galaxy community, Training platform
 
 ![](images/infra.png)
 
-The project is aimed at making the contribution process as easy as possible, so that no specific knowledge or skills are required.
+The project is aimed at making the contribution process as easy as possible, so that no specific knowledge or skills are required from contributors, and there are extensive [training materials about how to contribute to this project](https://galaxyproject.github.io/training-material/topics/contributing://galaxyproject.github.io/training-material/topics/contributing/)
+
 
 ## Expected outcomes
 ---
+
+We have many ideas for this work and participants can work on a wide range of topics depending on their interests
+
 
 Following the success of previous hackathons, we propose the organisation of a workshop to further pursue some of the objectives of the ELIXIR Galaxy Use case for training, e.g.:
 - Improve and extend the collection of Galaxy training materials
@@ -40,6 +44,7 @@ Following the success of previous hackathons, we propose the organisation of a w
 ---
 
 Instructors and anyone eager to develop Galaxy-related training material. No specific knowledge or skills are required, just motivation!
+
 **Expected hacking days**: 4 days, 3 days, 2 days
 
 ## Related works and references
@@ -51,7 +56,7 @@ Instructors and anyone eager to develop Galaxy-related training material. No spe
 
 - [Cell paper about the Galaxy Training Material effort](https://www.sciencedirect.com/science/article/pii/S2405471218302308)
 - [Introduction slides](http://bebatut.fr/talks/18/11_12_biohackathon/)
-
+- [Chat with the community on Gitter!](https://gitter.im/Galaxy-Training-Network/Lobby)
 
 ## GitHub or any other public repositories of your FOSS products (if any)
 ---
@@ -62,3 +67,11 @@ Instructors and anyone eager to develop Galaxy-related training material. No spe
 ## Hackers
 ---
 
+We welcome everybody to join our hackathon this week, no experience needed with Galaxy, git or training, just motivation!
+
+Why should you join?
+
+- Earn a place in our [Hall of Fame](https://galaxyproject.github.io/training-material/hall-of-fame) with any contribution, big or small!
+  ![](images/hall-of-fame.png)
+- Work with an awesome community!
+- Learn about training, Galaxy,
