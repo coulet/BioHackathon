@@ -65,7 +65,7 @@ We have many ideas for this week, and participants can work on a wide range of t
 - **Community**
   - More visibility for training events
   - Support for Instructors
-  - Add your training philosophy and tips to help other instructors
+  - [Share your training philosophy](https://github.com/galaxyproject/training-material/issues/1056) and tips to help other instructors
 
 ## Expected audience
 ---
