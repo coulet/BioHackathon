@@ -106,7 +106,5 @@ No specific knowledge or skills are required, just motivation! There are extensi
 - [Galaxy Training Material GitHub](https://github.com/galaxyproject/training-material)
 - [Galaxy Github](https://github.com/galaxyproject/galaxy)
 
-## Hackers
----
 
 
