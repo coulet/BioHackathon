@@ -48,14 +48,14 @@ We have many ideas for this week, and participants can work on a wide range of t
 - **Content**
   - Add new topics, new tutorials
   - Training Handbook for instructors
-  - Test existing tutorials and make improvements or file issues
-  - Review open pull requests
+  - Test existing tutorials and make improvements or [file issues](https://github.com/galaxyproject/training-material/issues)
+  - Review [open pull requests](https://github.com/galaxyproject/training-material/pulls)
 
 - **Global Infrastructure**
   - FAIRness evaluation of the training
   - Plan internationalisation and localisation support in order to make the training material available to users in their own language
-  - BioSchemas support
-  - Complete integration iwth the TeSS workflow annotator
+  - [BioSchemas](http://bioschemas.org/) support
+  - Complete integration with the [TeSS workflow annotator](https://tess.elixir-europe.org/workflows)
 
 - **Technical support**
   - Workflow testing
