@@ -17,18 +17,10 @@ Galaxy community, Training platform
 - Saskia Hiltemann (saskia.hiltemann@gmail.com, [chat on gitter](https://gitter.im/shiltemann)
 - Björn Grüning (bjoern.gruening@gmail.com, [chat on gitter](https://gitter.im/bgruening))
 
-## Background information
----
-[Galaxy](https://galaxyproject.org) is an open-source web framework for easy-to-use, reproducible and shareable computational life science research, with >100 public Galaxy servers. Training is an integral part of the Galaxy community. In collaboration with [GOBLET](https://www.mygoblet.org/) and the [ELIXIR Training Platform](https://www.elixir-europe.org/platforms/training), the [Galaxy Training Network](https://galaxyproject.org/teach/gtn/) is developing open, peer-reviewed and FAIR training material: >80 tutorials developed by >100 contributors, available at https://training.galaxyproject.org, to deliver training for scientists, developers and system administrators. The material is complemented by metadata to automatically populate the [ELIXIR training portal (TeSS)](https://tess.elixir-europe.org/) and to describe the technical infrastructure needed to run the tutorial (e.g. tools, data, workflows, etc.).
-
-![](images/infra.png)
-
-The project is aimed at making the contribution process as easy as possible, so that no specific knowledge or skills are required from contributors, and there are extensive [training materials about how to contribute to this project](https://galaxyproject.github.io/training-material/topics/contributing://galaxyproject.github.io/training-material/topics/contributing/)
-
 ## Motivation
 ---
 
-Bioinformatics has become too central to biology to be left to specialist bioinformaticians. We believe that the domain experts (biologists, researchers, clinicians) should be empowered to analyze their own data. The Galaxy framework allows users to run complex bioinformatics tools without the need of any programming knowledge and with nothing more than an internet browser.
+Bioinformatics has become too central to biology to be left to specialist bioinformaticians. We believe that the domain experts (biologists, researchers, clinicians) should be empowered to analyze their own data. The [Galaxy framework](https://galaxyproject.org) allows users to run complex bioinformatics tools without the need of any programming knowledge and with nothing more than an web browser.
 
 There is a clear demand for online, accessible bioinformatics training, with a recent survey by [Brazas et al](http://biorxiv.org/content/early/2017/02/27/098996) that while most people currently learn bioinformatics by themselves or from colleagues, they would prefer to be learning through workshops or online e-learning courses.
 
@@ -38,6 +30,16 @@ Our aim with this project is to provide a set of curated, **interactive** traini
 
 ![](images/interactive_hands_on.png)
 
+
+## Background information
+---
+[Galaxy](https://galaxyproject.org) is an open-source web framework for easy-to-use, reproducible and shareable computational life science research, with >100 public Galaxy servers. Training is an integral part of the Galaxy community. In collaboration with [GOBLET](https://www.mygoblet.org/) and the [ELIXIR Training Platform](https://www.elixir-europe.org/platforms/training), the [Galaxy Training Network](https://galaxyproject.org/teach/gtn/) is developing open, peer-reviewed and FAIR training material: >80 tutorials developed by >100 contributors, available at https://training.galaxyproject.org, to deliver training for scientists, developers and system administrators. The material is complemented by metadata to automatically populate the [ELIXIR training portal (TeSS)](https://tess.elixir-europe.org/) and to describe the technical infrastructure needed to run the tutorial (e.g. tools, data, workflows, etc.).
+
+![](images/infra.png)
+
+The project is aimed at making the contribution process as easy as possible, so that no specific knowledge or skills are required from contributors, and there are extensive [training materials about how to contribute to this project](https://galaxyproject.github.io/training-material/topics/contributing://galaxyproject.github.io/training-material/topics/contributing/)
+
+
 ## Goals and Expected outcomes
 ---
 
@@ -45,9 +47,9 @@ We have many ideas for this week, and participants can work on a wide range of t
 
 - **Content**
   - Add new topics, new tutorials
-  - Review open pull requests
-  - Check and improve existing tutorials
   - Training Handbook for instructors
+  - Test existing tutorials and make improvements or file issues
+  - Review open pull requests
 
 - **Global Infrastructure**
   - FAIRness evaluation of the training
