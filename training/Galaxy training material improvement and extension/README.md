@@ -26,7 +26,7 @@ There is a clear demand for online, accessible bioinformatics training, with a r
 
 ![](images/demand.png)
 
-Our aim with this project is to provide a set of curated, **interactive** training materials, centered around **real-world research questions** and maintained by the global community, which are suitable to be used in both by instructors in **workshops** as by learners for **self-study**.
+Our aim with this project is to provide a set of curated, **interactive** training materials, centered around **real-world research questions** and maintained by the **global community**, which are suitable to be used in both by instructors in **workshops** as by learners for **self-study**.
 
 ![](images/interactive_hands_on.png)
 
