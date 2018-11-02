@@ -28,12 +28,13 @@ The project is aimed at making the contribution process as easy as possible, so 
 ## Motivation
 ---
 
-Bioinformatics has become too central to biology to be left to specialist bioinformaticians. We believe that the domain experts (biologists, researchers, clinicians) should be empowered to analyze their own data.
+Bioinformatics has become too central to biology to be left to specialist bioinformaticians. We believe that the domain experts (biologists, researchers, clinicians) should be empowered to analyze their own data. The Galaxy framework allows users to run complex bioinformatics tools without the need of any programming knowledge and with nothing more than an internet browser.
 
 There is a clear demand for online, accessible bioinformatics training, with a recent survey by [Brazas et al](http://biorxiv.org/content/early/2017/02/27/098996) that while most people currently learn bioinformatics by themselves or from colleagues, they would prefer to be learning through workshops or online e-learning courses.
 
 ![](images/demand.png)
 
+Our aim with this project is to provide a set of curated training materials, centered around real-world research questions and maintained by the global community, which are suitable to be used in both by instructors in workshops as by learners for self-study.
 
 ## Goals and Expected outcomes
 ---
